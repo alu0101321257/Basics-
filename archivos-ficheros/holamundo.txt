@@ -1,0 +1,2 @@
+"Hola Mundo" es un programa basico utilizado en la ensenanza de programacion que simplemente muestra el mensaje "Hola Mundo" en la pantalla. Su proposito es ilustrar la sintaxis basica y los conceptos iniciales de un lenguaje de programacion, siendo a menudo el primer ejemplo que se aprende al explorar un nuevo lenguaje. Representa la manera mas simple de demostrar como se realiza la salida de datos en un programa.
+Escrito por Javier Lorenzo 04/02/2024 
